@@ -11,10 +11,10 @@ This Android application showcases the current date display along with a TextSwi
 
 ## Screenshots/GIFs
 
-![TextSwitcherANDdate Demo](path_to_your_app_demo_image.png)
-![TextSwitcherANDdate Demo](path_to_your_app_demo_image.png)
-![TextSwitcherANDdate Demo](path_to_your_app_demo_image.png)
-![TextSwitcherANDdate Demo](path_to_your_app_demo_image.png)
+![TextSwitcherANDdate Demo](TextSwitcherANDdate1.png)
+![TextSwitcherANDdate Demo](TextSwitcherANDdate2.png)
+![TextSwitcherANDdate Demo](TextSwitcherANDdate3.png)
+![TextSwitcherANDdate Demo](TextSwitcherANDdate4.png)
 
 
 ## Technologies Used
